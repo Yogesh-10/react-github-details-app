@@ -4,4 +4,4 @@
 
 ###### Github Personal Access Token (PAT) can be used to increase rate limiting API from 10 requests to 30 Requests
 
-###### Go to Developer settings and Generate a new Token for increasing api requets
+###### Go to Developer settings and Generate a new Token
